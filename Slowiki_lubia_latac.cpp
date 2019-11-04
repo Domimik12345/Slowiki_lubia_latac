@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
+	std::cout << "Artur Proczak" << endl;
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania

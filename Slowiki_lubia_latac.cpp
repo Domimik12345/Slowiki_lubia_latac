@@ -7,7 +7,11 @@ int main()
 {
    
 	std::cout << "Artur Proczak" << endl;
+<<<<<<< HEAD
 	cout << "Kacper Strzelczyk\n";
+=======
+	std::cout << "Dominik Pluta" << endl;
+>>>>>>> f48461049891f114264fa0b2c94fe01366286482
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
